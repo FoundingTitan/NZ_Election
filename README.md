@@ -1,2 +1,2 @@
 # NZ_Election
-Predict NZ 2023 election results from electorates dataset published by Stats NZ survey.
+Predict change in electorate level voting pattern for 2023 NZ election, resulting after border changes between electorates after each census survey conducted by Stats NZ survey.
